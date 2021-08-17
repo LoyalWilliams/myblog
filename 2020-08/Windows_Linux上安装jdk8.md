@@ -1,4 +1,4 @@
-﻿# 1.准备
+# 1.准备
 官网下载jdk8，或者由以下网盘提供的jdk
 jdk8
 链接：https://pan.baidu.com/s/1oGp0PgaiwkkiToGCK5c7GA 
@@ -61,3 +61,9 @@ export PATH=$PATH:$JAVA_HOME/bin
 ```bash
 java -version
 ```
+
+[我的GitHub](https://github.com/LoyalWilliams)
+
+[我的gitbook](https://loyalwilliams.gitbook.io/myblog/v/main/08/windowslinux-shang-an-zhuang-jdk8)
+
+<img src="../支付码.png" width="60%"/>

@@ -46,4 +46,8 @@
 
 以后，我们只需更新GitHub的项目，gitbook就会自动同步更新
 
+[我的GitHub](https://github.com/LoyalWilliams)
+
+[我的gitbook](https://loyalwilliams.gitbook.io/myblog/v/main/08/windowslinux-shang-an-zhuang-jdk8)
+
 <img src="../支付码.png" width="60%"/>

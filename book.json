@@ -1,5 +1,6 @@
 {
-  "plugins": ["summary"],
+  "plugins": ["summary","-sharing", "sharing-plus","pageview-count",
+ "github","chapter-fold","-lunr", "-search", "search-pro","ancre-navigation"],
   "pluginsConfig": {
     "summary" : {
     "excludeDir":["assets","styles"], 
@@ -9,6 +10,25 @@
       "title":"introduction",
       "file":"README.md"     
     }
-	}
+	},
+	"sharing": {
+       "douban": true,
+       "facebook": false,
+       "google": true,
+       "line": false,
+       "qq": true,
+       "qzone": false,
+       "weibo": true,
+       "whatsapp": false,
+       "all": [
+           "douban", "facebook", "google", "hatenaBookmark", 
+           "instapaper", "linkedin","twitter", "weibo", 
+           "messenger","whatsapp"
+       ]
+   },
+   "github": {
+     	   "url": "https://github.com/LoyalWilliams"
+  	  }
+	
 }
 }
