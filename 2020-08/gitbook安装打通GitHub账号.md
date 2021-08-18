@@ -49,5 +49,3 @@
 [我的GitHub](https://github.com/LoyalWilliams)
 
 [我的gitbook](https://loyalwilliams.gitbook.io/myblog/v/main/08/windowslinux-shang-an-zhuang-jdk8)
-
-<img src="../支付码.png" width="60%"/>

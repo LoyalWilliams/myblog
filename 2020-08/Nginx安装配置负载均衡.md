@@ -36,7 +36,7 @@ java -version
 ```
 
 <img src="https://img-blog.csdnimg.cn/03a4f4aa9f20401c91226d084ad9624d.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FfaHVpX3RhaV9sYW5n,size_16,color_FFFFFF,t_70#pic_center" width="80%"/>
-# 3.Linux上安装Java
+# Linux上安装Java
 将下载好的jdk解压到安装目录
 ```bash
  tar -xzvf jdk-8u141-linux-x64.tar.gz
