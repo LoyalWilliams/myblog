@@ -88,4 +88,14 @@ ps -ef |grep nginx #查看是否运行
 
 <img src="./img/ng9.png" alt="" width="80%"/>
 
+# 5.基本命令
+
+```
+nginx -s stop   # 停止Nginx，或者直接kill
+nginx -s reload  # 刷新配置文件
+nginx -c  /etc/nginx/nginx.conf # -c 指定配置文件路径启动
+```
+
+
+
 [我的GitHub](https://github.com/LoyalWilliams)
