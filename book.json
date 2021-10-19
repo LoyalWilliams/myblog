@@ -2,8 +2,11 @@
   "plugins": ["summary","-sharing", "sharing-plus","pageview-count",
  "github","chapter-fold","-lunr", "-search", "search-pro","ancre-navigation",
  "code","lightbox","hide-element","splitter","theme-comscore","expandable-chapters-small",
- "autotheme","donate"],
+ "autotheme","donate","icp"],
   "pluginsConfig": {
+	  "icp": {
+            "number": "京ICP备2021027071号-1"
+        },
     "summary" : {
     "excludeDir":["assets","styles"], 
     "readme":"0-README.md" , 
