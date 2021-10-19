@@ -45,10 +45,7 @@
         },
    "github": {
      	   "url": "https://github.com/LoyalWilliams"
-  	  },
-	"hide-element": {
-            "elements": [".gitbook-link"]
-        }
+  	  }
 },
 "links" : {
     "sidebar" : {
